@@ -4,10 +4,6 @@
     "Language": "English",
     "BaseURL": "https://github.com/SpektraSystems/WVD-Essentials",
     "Files": [
-	    {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/WVD-Essentials/master/LAB-OUTLINE.md",
-        "Order": 0
-      },
 	     {
         "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/WVD-Essentials/master/00-OVERVIEW.md",
         "Order": 1
